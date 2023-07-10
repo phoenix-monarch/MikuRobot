@@ -61,7 +61,14 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEX = """
-ʜᴇʟʟᴏ `{}`, ʜᴏᴡ ᴀʀᴇ ʏᴏᴜ \nᴡᴀɪᴛ ᴀ ᴍᴏᴍᴇɴᴛ ʙʀᴏ . . . 
+────「 [{}](https://telegra.ph/file/25312630b709adb715bff.jpg) 」────
+*Hola! {},*
+*Meow Meow, Don't Touch Me Without My Permission!*
+➖➖➖➖➖➖➖➖➖➖➖➖➖
+❍ *Uptime:* `{}`
+❍ `{}` *Users, Across* `{}` *Chats.*
+➖➖➖➖➖➖➖➖➖➖➖➖➖
+➛ Try The Guidelines Button Below To Know My Abilities ××
 """
 
 
