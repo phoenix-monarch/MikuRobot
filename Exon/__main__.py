@@ -78,7 +78,7 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="🏡 ᴀʙᴏᴜᴛ 🏡", callback_data="ABG_"),
+        InlineKeyboardButton(text="🏡 About", callback_data="ABG_"),
         InlineKeyboardButton(
             text="📢 Updates", url="https://telegram.dog/kaizoyu"
         ),
