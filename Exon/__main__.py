@@ -72,15 +72,15 @@ buttons = [
         )
     ],
     [
-        InlineKeyboardButton(text="📓 Guidelines", callback_data="help_back"),
+        InlineKeyboardButton(text="📓 ʜᴇʟᴘ", callback_data="help_back"),
         InlineKeyboardButton(
-            text="Owner 🌐", url="https://t.me/xenxd"
+            text="ᴏᴡɴᴇʀ 🌐", url="https://t.me/xenxd"
         ),
     ],
     [
-        InlineKeyboardButton(text="🏡 About", callback_data="ABG_"),
+        InlineKeyboardButton(text="🏡 ᴀʙᴏᴜᴛ", callback_data="ABG_"),
         InlineKeyboardButton(
-            text="📢 Updates", url="https://telegram.dog/kaizoyu"
+            text="📢 ɴᴇᴛᴡᴏʀᴋ", url="https://telegram.dog/kaizoyu"
         ),
     ],
 ]
